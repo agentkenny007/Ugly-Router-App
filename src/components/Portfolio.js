@@ -6,7 +6,7 @@ export default class Portfolio extends Component {
       <section className="about">
         <h2>This is the Portfolio page!</h2>
         <p className="App-intro">
-          The portfolio information will soon go here.
+          The portfolio information will soon go here. Until then, this page will remain ugly.
         </p>
       </section>
     );
