@@ -1,5 +1,7 @@
 body {
-  margin: 0;
-  padding: 0;
+  margin: 20px;
+  padding: 20px;
   font-family: sans-serif;
 }
+
+nav a { padding: 20px; }
